@@ -1,0 +1,3 @@
+model,Accuracy
+CNN,0.9747
+Mobilenet,0.9895
